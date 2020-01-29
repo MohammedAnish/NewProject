@@ -1,0 +1,31 @@
+package EncapAndUserDefinedListMapSet;
+
+import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class UsingSet {
+
+	
+		public static void main(String[] args) {
+			Set <Employee> L=new TreeSet<>();
+			
+			Employee e1=new Employee();
+			e1.setId(10);
+			e1.setName("Anish");
+			e1.setPhno(68788998736364l);
+			Employee e2=new Employee();
+			e2.setId(20);
+			e2.setName("Mohammad");
+			e2.setPhno(987654321190l);
+			L.add(e1);
+			L.add(e2);
+			for (Employee d : L) {
+				System.out.println(d.getId());
+				System.out.println(d.getName());
+				System.out.println(d.getPhno());
+				
+			}
+		}
+
+}

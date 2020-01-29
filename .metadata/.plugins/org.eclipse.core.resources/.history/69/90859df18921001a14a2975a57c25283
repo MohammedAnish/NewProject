@@ -1,0 +1,35 @@
+package Day3;
+
+public class Employee {
+	private void empId(String name) {
+		System.out.println("Employee name is"+name);
+		
+
+	}
+	private void empId(int no) {
+		System.out.println("No is "+no);
+	}
+	private void empId(boolean perEmp) {
+		System.out.println("boolean method"+perEmp);
+
+	}
+	private void empId(String manager, String project) {
+		System.out.println("String string method"+project);
+		System.out.println(manager);
+
+	}
+	private void empId(float sal,String date ) {
+		System.out.println("float string method"+sal);
+		System.out.println(date);
+	}
+	
+	public static void main(String[] args) {
+		Employee e =new Employee();
+		e.empId(" Anish");
+		e.empId(12345);
+		e.empId(123456.76f, "12/12/2009");
+		e.empId("t");
+		e.empId("Yabis","honda");
+	
+	}
+}

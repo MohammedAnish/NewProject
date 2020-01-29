@@ -1,0 +1,21 @@
+package Day4;
+
+public class Factorial {
+
+	
+	public static void main(String[] args) {
+		int i,fact=1;
+		
+		int number=5;
+		for (int j = 0; j <=number; j++) {
+			
+			fact=j*1;
+			
+		}
+		
+		System.out.println(fact);
+		
+		
+	}
+}
+

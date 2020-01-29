@@ -1,0 +1,16 @@
+package Day3;
+
+public class Company extends Employee {
+
+	@Override
+	public void empName() {
+		System.out.println("Employee Name is Priya");
+		
+	}
+public static void main(String[] args) {
+	Company c = new Company();
+	c.empId();
+	c.empName();
+}
+
+}
