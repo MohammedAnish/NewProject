@@ -9,6 +9,201 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>InfoQ Eclipse feed: The Java EE Guardians Rebrand as the Jakarta EE Ambassadors</title>
+	<guid isPermaLink="true">https://www.infoq.com/news/2020/01/rebranding-java-ee-guardians/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</guid>
+	<link>https://www.infoq.com/news/2020/01/rebranding-java-ee-guardians/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</link>
+	<description>&lt;img src=&quot;https://www.infoq.com/styles/i/logo_bigger.jpg&quot; /&gt;&lt;p&gt;Under the auspices of the Eclipse Foundation, the rebranding of the Java EE Guardians to the Jakarta EE Ambassadors has been completed. They were a driving force that ultimately led to Oracle open-sourcing Java EE and transferring ownership to the Eclipse Foundation. Reza Rahman, program manager, Java on Azure at Microsoft, spoke to InfoQ about this rebranding.&lt;/p&gt; &lt;i&gt;By Michael Redlich&lt;/i&gt;</description>
+	<pubDate>Thu, 30 Jan 2020 09:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Thabang Mashologu: CN4J Day Is an Important Industry First</title>
+	<guid isPermaLink="false">6761 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/thabang-mashologu/cn4j-day-important-industry-first</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Mark Cloud Native for Java (CN4J) Day on March 30 on your calendars. This all-day event at KubeCon + CloudNativeCon Europe will be the first time the best and brightest minds from the Java and the Kubernetes communities join forces at a single event to collaborate and share their expertise.&lt;br /&gt;
+ &lt;br /&gt;
+CN4J Day attendees will benefit from expert talks, demos, and thought-provoking sessions focused on building cloud native enterprise applications using Jakarta EE-based microservices on Kubernetes.&lt;br /&gt;
+&lt;br /&gt;
+CN4J Day is a major milestone in open source software development. It’s also a significant day for everyone involved with the Eclipse Foundation because it confirms the Jakarta EE and MicroProfile communities are at the forefront of open source innovation, delivering on the promise of cloud native Java. Given that the Eclipse Foundation is Europe’s largest open source organization, it makes perfect sense to hold this first-of-its-kind event in Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;The timing of CN4J Day could not be better. As our Executive Director, Mike Milinkovich, noted in &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/moving-forward-jakarta-ee-9&quot;&gt;his blog&lt;/a&gt;, momentum toward Jakarta EE 9 is building. This event gives all of us an important and truly unique opportunity to:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Learn more about the future of cloud native Java development from industry and community leaders&lt;/li&gt;
+	&lt;li&gt;Gain deeper insight into key aspects of Jakarta EE, MicroProfile, and Kubernetes technologies&lt;/li&gt;
+	&lt;li&gt;Meet and share ideas with global Java and Kubernetes ecosystem innovators &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading minds from the global Java ecosystem will be on hand at CN4J Day to share their expertise. Along with keynote talks from our own Mike Milinkovich and IBM Java CTO, Tim Ellison, CN4J Day offers technical insights from well-known Java experts and Eclipse Foundation community members, including:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Adam Bien, an internationally recognized Java architect, developer, workshop leader, and author&lt;/li&gt;
+	&lt;li&gt;Sebastian Daschner, lead java developer advocate at IBM&lt;/li&gt;
+	&lt;li&gt;Clement Escoffier, principal software engineer at Red Hat&lt;/li&gt;
+	&lt;li&gt;Ken Finnegan, senior principal engineer at Red Hat&lt;/li&gt;
+	&lt;li&gt;Emily Jiang, liberty architect for MicroProfile and CDI at IBM&lt;/li&gt;
+	&lt;li&gt;Dmitry Kornilov, Jakarta EE and Helidon Team Leader at Oracle&lt;/li&gt;
+	&lt;li&gt;Tomas Langer, Helidon Architect &amp;amp; Developer at Oracle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading players in the Java ecosystem have signed on to sponsor CN4J activities and show their support for the initiative. Our sponsors include the Cloud Native Computing Foundation (CNCF), IBM, Oracle, and Red Hat.&lt;/p&gt;
+
+&lt;p&gt;Since we have limited capacity, this is a first-come, first-served event. To register today, just include CN4J Day when you’re registering for KubeCon + CloudNativeCon Europe. Thanks to the generous support of our sponsors, a limited amount of discounted CN4J Day add-on registrations will be made available to Jakarta EE and MicroProfile community members. For more information about CN4J Day and a link to the registration page, click &lt;a href=&quot;http://eclipse.org/cn4j-day&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;
+ &lt;br /&gt;
+For additional questions regarding this event, please reach out to events-info@eclipse.org. We’ll let you know when we add speakers and sponsors for CN4J Day. Watch our&lt;a href=&quot;https://blogs.eclipse.org/&quot;&gt; blogs&lt;/a&gt; and&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; newsletters&lt;/a&gt; for updates.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakarta-ee&quot;&gt;Jakarta EE&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipse-microprofile&quot;&gt;Eclipse MicroProfile&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/kubernetes&quot;&gt;kubernetes&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/cn4j-day&quot;&gt;CN4J Day&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/kubecon-europe-2020&quot;&gt;KubeCon Europe 2020&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 29 Jan 2020 02:44:31 +0000</pubDate>
+</item>
+<item>
+	<title>Tom Schindl: Setting up e(fx)clipse RCP development for Java11+ and PDE</title>
+	<guid isPermaLink="false">http://tomsondev.bestsolution.at/?p=5197</guid>
+	<link>https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/</link>
+	<description>&lt;p&gt;As I’m currently converting a Java-8 project to AdoptJDK-11 and JavaFX-11+ I thought it would be a good idea document the steps involved.&lt;/p&gt;
+&lt;h2&gt;Prequisits&lt;/h2&gt;
+&lt;p&gt;I assume you have installed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eclipse 2019-12 – &lt;a href=&quot;http://download.eclipse.org/eclipse/&quot; rel=&quot;nofollow&quot;&gt;http://download.eclipse.org/eclipse/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Installed e(fx)clipse 3.6.0 or above – &lt;a href=&quot;https://marketplace.eclipse.org/content/efxclipse&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/efxclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AdoptJDK-11 – &lt;a href=&quot;https://adoptopenjdk.net/?variant=openjdk11&amp;amp;jvmVariant=hotspot&quot; rel=&quot;nofollow&quot;&gt;https://adoptopenjdk.net/?variant=openjdk11&amp;amp;jvmVariant=hotspot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Downloaded and extracted the JavaFX-SDK-11 – &lt;a href=&quot;https://openjfx.io/&quot; rel=&quot;nofollow&quot;&gt;https://openjfx.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Configure your Eclipse&lt;/h2&gt;
+&lt;h3&gt;Java Settings&lt;/h3&gt;
+&lt;p&gt;Make AdoptJDK-11 the default JRE unless it is already the default.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-03-59/&quot; rel=&quot;attachment wp-att-5203&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5203&quot; height=&quot;585&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.03.59.png?w=640&amp;amp;h=585&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Make sure AdoptJDK-11 is used for the Java-SE-11 EE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-05-46/&quot; rel=&quot;attachment wp-att-5205&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5205&quot; height=&quot;362&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.05.46.png?w=640&amp;amp;h=362&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;e(fx)clipse Settings&lt;/h3&gt;
+&lt;p&gt;Open the JavaFX-Preference Page and point it to your JavaFX-11-SDK&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-10-44/&quot; rel=&quot;attachment wp-att-5208&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5208&quot; height=&quot;472&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.10.44.png?w=640&amp;amp;h=472&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This step is required because JavaFX is not part of AdoptJDK-11 and hence Eclipse won’t find the libraries and your code won’t compile inside the IDE (we’ll revisit this topic below once more)&lt;/p&gt;
+&lt;h3&gt;Setup a target platform&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-15-43/&quot; rel=&quot;attachment wp-att-5233&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5233&quot; height=&quot;618&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.15.43.png?w=640&amp;amp;h=618&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-17-54/&quot; rel=&quot;attachment wp-att-5235&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5235&quot; height=&quot;593&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.17.54.png?w=640&amp;amp;h=593&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-19-06/&quot; rel=&quot;attachment wp-att-5237&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5237&quot; height=&quot;684&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.19.06.png?w=640&amp;amp;h=684&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Create your project&lt;/h2&gt;
+&lt;h3&gt;Bootstrap your project&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-22-27/&quot; rel=&quot;attachment wp-att-5216&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5216&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.22.27.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-24-19/&quot; rel=&quot;attachment wp-att-5217&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5217&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.24.19.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-24-40/&quot; rel=&quot;attachment wp-att-5219&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5219&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.24.40.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Check your project setup&lt;/h3&gt;
+&lt;p&gt;Check if Eclipse correctly recognized the javafx-library and magically added them to your plug-in dependendencies&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-27-01/&quot; rel=&quot;attachment wp-att-5221&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5221&quot; height=&quot;591&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.27.01.png?w=640&amp;amp;h=591&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Implement the UI&lt;/h2&gt;
+&lt;h3&gt;Add javax.annotation to your MANIFEST.MF&lt;/h3&gt;
+&lt;p&gt;Before you can write the Java-Code for your UI you need to add javax.annotation-package to your bundle (this used to ship with Java-8 has been removed since then)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-32-48/&quot; rel=&quot;attachment wp-att-5223&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5223&quot; height=&quot;346&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.32.48.png?w=640&amp;amp;h=346&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Create a Java-Class&lt;/h3&gt;
+&lt;pre class=&quot;brush: java; title: ; notranslate&quot;&gt;package my.app.app;
+
+import javax.annotation.PostConstruct;
+
+import javafx.scene.control.Label;
+import javafx.scene.layout.BorderPane;
+
+public class SamplePart {
+  @PostConstruct
+  void init(BorderPane root) {
+    root.setCenter(
+      new Label(System.getProperty(&quot;javafx.version&quot;))
+    );
+  }
+}
+&lt;/pre&gt;
+&lt;h3&gt;Adapt your e4xmi&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-38-34/&quot; rel=&quot;attachment wp-att-5228&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5228&quot; height=&quot;514&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.38.34.png?w=640&amp;amp;h=514&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Running your application&lt;/h2&gt;
+&lt;p&gt;While everything happily compiles running the application would fail because in the initial steps we only satisfied the Eclipse compiler by magically injecting the JavaFX-Libraries in your Plug-in-Dependency (see above).&lt;/p&gt;
+&lt;p&gt;To run the application we need to decide how we’d like to ship JavaFX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;next to your application in a folder&lt;/li&gt;
+&lt;li&gt;as part of your eclipse application inside the the plugins-directory&lt;/li&gt;
+&lt;li&gt;you jlink yourself a JDK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’ll not take a look at the 3rd solution as part of this blog post!&lt;/p&gt;
+&lt;h3&gt;Running with an external folder&lt;/h3&gt;
+&lt;p&gt;Open the generated launch configuration and append &lt;code&gt;-Defxclipse.java-modules.dir=PATH_TO_YOUR_JAVAFX_LIBS&lt;/code&gt; in the VM arguments-field&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-21-04/&quot; rel=&quot;attachment wp-att-5239&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5239&quot; height=&quot;487&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.21.04.png?w=640&amp;amp;h=487&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Running with bundled javafx-modules&lt;/h3&gt;
+&lt;p&gt;We provide OSGi-Bundles who contain the original and unmodified JavaFX-Modules (note you can NOT use them are OSGi-Dependencies!) you can use them by adding &lt;a href=&quot;http://downloads.efxclipse.bestsolution.at/p2-repos/openjfx-11/repository/&quot; rel=&quot;nofollow&quot;&gt;http://downloads.efxclipse.bestsolution.at/p2-repos/openjfx-11/repository/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-32-02/&quot; rel=&quot;attachment wp-att-5241&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5241&quot; height=&quot;633&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.32.02.png?w=640&amp;amp;h=633&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-32-48/&quot; rel=&quot;attachment wp-att-5242&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5242&quot; height=&quot;597&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.32.48.png?w=640&amp;amp;h=597&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Add them to your launch configuration&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-35-44/&quot; rel=&quot;attachment wp-att-5244&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5244&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.35.44.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Exporting your application&lt;/h2&gt;
+&lt;p&gt;The project wizard already generated the basic infrastructure for you but we need to make some small changes. We assume you’ve chosen to option to ship the JavaFX-modules as part of the plugins-directory to keep it simple.&lt;/p&gt;
+&lt;p&gt;The wizard already added the JavaFX-Standard-Feature into your product-File&lt;br /&gt;
+&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-44-17/&quot; rel=&quot;attachment wp-att-5246&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5246&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.44.17.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It also added the parts to satisfy the compiler in your releng/pom.xml&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-45-50/&quot; rel=&quot;attachment wp-att-5248&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5248&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.45.50.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;While most of the stuff is already in place we need to make 2 small modifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Update the tycho-version property to 1.5.0&lt;/li&gt;
+&lt;li&gt;Change the export environment to match the operation-system(s) you want to target
+&lt;ul&gt;
+&lt;li&gt;Windows: os=win32, ws=win32, arch=x86_64&lt;/li&gt;
+&lt;li&gt;Linux: os=linux, ws=gtk, arch=x86_64&lt;/li&gt;
+&lt;li&gt;OS-X: os=macosx, ws=cocoa, arch=x86_64&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-15-07-53/&quot; rel=&quot;attachment wp-att-5250&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5250&quot; height=&quot;384&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-15.07.53.png?w=640&amp;amp;h=384&quot; width=&quot;640&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;h3&gt;Producing a native launcher&lt;/h3&gt;
+&lt;p&gt;As we anyway have to produce a platform-dependent we can also add the creation of a native launcher. For that open your .product-File:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tick the “The product includes native launcher artifacts”&lt;/li&gt;
+&lt;li&gt;Change the application to main-thread-application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-15-53-49/&quot; rel=&quot;attachment wp-att-5254&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5254&quot; height=&quot;384&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-15.53.49.png?w=640&amp;amp;h=384&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 15:00:08 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: The Eclipse Foundation Announces the CN4J Day 2020 Event for Building Enterprise Java on Kubernetes</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/G-IVzMvJ570/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/G-IVzMvJ570/</link>
+	<description>Today the Eclipse Foundation announced the launch of the Cloud Native for Java (CN4J) Day event, a full-day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using open source vendor-neutral Jakarta EE (successor of Java EE) and Eclipse MicroProfile specifications on Kubernetes.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/G-IVzMvJ570&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 13:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Cloud Native for Java Day @ KubeCon EU</title>
+	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1521</guid>
+	<link>https://eclipse-foundation.blog/2020/01/28/cloud-native-for-java-day-kubecon-eu/</link>
+	<description>&lt;p&gt;&lt;a href=&quot;http://eclipse-5413615.hs-sites&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Cloud Native for Java (CN4J) Day&lt;/a&gt; at KubeCon + CloudNativeCon Europe will be the first time the best and brightest minds from the Java ecosystem and the Kubernetes ecosystem come together at one event to collaborate and share their expertise.&lt;/p&gt;
+&lt;p&gt;The all-day event on March 30 includes expert talks, demos, and thought-provoking sessions focused on building cloud native enterprise applications using Jakarta EE-based microservices on Kubernetes. CN4J Day is a proud moment for all of us at the Eclipse Foundation as it confirms the Jakarta EE and MicroProfile communities are at the forefront of fulfilling the promise of cloud native Java. We’re excited to be working with our friends at the CNCF to offer this event co-located with KubeCon Europe.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A Unique Opportunity to Engage With Global Experts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The timing of CN4J Day could not be better. With &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/moving-forward-jakarta-ee-9&quot;&gt;momentum toward the Jakarta EE 9&lt;/a&gt; release building, this event gives all of us an important and truly unique opportunity to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Learn more about the future of cloud native Java development from industry and community leaders&lt;/li&gt;
+&lt;li&gt;    Gain deeper insight into key aspects of Jakarta EE, MicroProfile, and Kubernetes technologies&lt;/li&gt;
+&lt;li&gt;    Meet and share ideas with global Java and Kubernetes ecosystem innovators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The global Java ecosystem has embraced CN4J day and several of its leading minds will be on-hand to share their insights. Along with keynote addresses from my colleague Tanja Obradovic and IBM Java CTO, Tim Ellison, CN4J Day features informative technical talks from Java experts and Eclipse Foundation community members, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Adam Bien, an internationally recognized Java architect, developer, workshop leader, and author&lt;/li&gt;
+&lt;li&gt;    Sebastian Daschner, lead java developer advocate at IBM&lt;/li&gt;
+&lt;li&gt;    Clement Escoffier, principal software engineer at Red Hat&lt;/li&gt;
+&lt;li&gt;    Ken Finnegan, senior principal engineer at Red Hat&lt;/li&gt;
+&lt;li&gt;    Emily Jiang, liberty architect for MicroProfile and CDI at IBM&lt;/li&gt;
+&lt;li&gt;    Dmitry Kornilov, Jakarta EE and Helidon Team Leader at Oracle&lt;/li&gt;
+&lt;li&gt;    Tomas Langer, Helidon Architect &amp;amp; Developer at Oracle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Major Industry and Ecosystem Endorsement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Leading industry players in the Java ecosystem are also showing their support for CN4J Day through sponsorship. Our sponsors include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Cloud Native Computing Foundation (CNCF)&lt;/li&gt;
+&lt;li&gt;    IBM&lt;/li&gt;
+&lt;li&gt;    Oracle&lt;/li&gt;
+&lt;li&gt;    Red Hat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event is being coordinated by an independent program committee composed of Arun Gupta, principal technologist at Amazon Web Services, Reza Rahman, principal program manager for Java on Azure at Microsoft, and Tanja Obradovic, program manager for Jakarta EE at the Eclipse Foundation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Register Today&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To register today, simply add the event to your KubeCon + CloudNativeCon Europe registration. Thanks to the generous support of our sponsors, a limited amount of discounted CN4J Day add-on registrations will be made available to Jakarta EE and MicroProfile community members on a first-come, first-served basis.&lt;/p&gt;
+&lt;p&gt;For more details about CN4J Day and a link to the registration page, click&lt;a href=&quot;http://eclipse.org/cn4j-day&quot;&gt; here&lt;/a&gt;. For additional questions regarding this event, please reach out to events-info@eclipse.org.&lt;/p&gt;
+&lt;p&gt;As additional speakers and sponsors come onboard, we’ll keep you posted, so watch for updates in our&lt;a href=&quot;https://blogs.eclipse.org/&quot;&gt; blogs&lt;/a&gt; and&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; newsletters&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 12:00:08 +0000</pubDate>
+</item>
+<item>
 	<title>Wayne Beaton: Organizing Your Eclipse Foundation Open Source Project Team</title>
 	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5619</guid>
 	<link>https://waynebeaton.wordpress.com/2020/01/27/organizing-your-eclipse-foundation-open-source-project-team/</link>
@@ -321,13 +516,6 @@
  &lt;p&gt;The corresponding code is in this folder: &lt;a href=&quot;https://github.com/jmini/bnd-experiments/tree/master/effectiveosgi-example&quot;&gt;effectiveosgi-example&lt;/a&gt;.&lt;/p&gt; 
 &lt;/div&gt;</description>
 	<pubDate>Sun, 12 Jan 2020 23:00:00 +0000</pubDate>
-</item>
-<item>
-	<title>Eclipse Announcements: The realities of running an open-source community</title>
-	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/_Ycdz2OYrEE/</guid>
-	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/_Ycdz2OYrEE/</link>
-	<description>The benefits of using open-source software is immeasurable, but itâ€™s not the code itself that makes open-source software an invaluable resource.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/_Ycdz2OYrEE&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Thu, 09 Jan 2020 14:45:00 +0000</pubDate>
 </item>
 <item>
 	<title>Tanja Obradovic: Jakarta EE Community Update January 2020</title>
@@ -884,36 +1072,6 @@ as well as &lt;a href=&quot;https://repo1.maven.org/maven2/org/eclipse/ditto/&qu
 &lt;p&gt;–&lt;br /&gt;
 The Eclipse Ditto team&lt;/p&gt;</description>
 	<pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-</item>
-<item>
-	<title>Mike Milinkovich: Close to the Edge</title>
-	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1516</guid>
-	<link>https://eclipse-foundation.blog/2019/12/10/close-to-the-edge/</link>
-	<description>&lt;p&gt;Today we are launching our new &lt;a href=&quot;http://edgenative.eclipse.org/&quot;&gt;Edge Native Working Group&lt;/a&gt; to help drive the industry platform for edge computing. The new group has hit the ground running with everything needed to accelerate adoption of enterprise applications at the edge: a mature code base that’s already widely deployed in production environments, strong endorsements and participation from industry heavyweights, &lt;a href=&quot;https://github.com/kubernetes/community/tree/master/wg-iot-edge&quot;&gt;strong collaborations&lt;/a&gt; with other industry organizations such as the CNCF, and a deep understanding of the key challenges ahead.&lt;/p&gt;
-&lt;p&gt;But before turning to the details of the announcement, let’s talk a little about how edge computing differs from related technologies such as cloud and IoT.&lt;/p&gt;
-&lt;p&gt;To me, edge computing differs from IoT in that IoT is historically a bottom up approach. The people who talk about IoT are likely coming from an embedded systems or industrial automation background, and are looking for new, open stacks to connect their OT systems to modern cloud infrastructure.&lt;/p&gt;
-&lt;p&gt;Edge computing is more of a top down approach where people are looking for how they can take the new generation of cloud infrastructure and use it to solve problems at the edge of the network. Edge computing does not necessarily differ from cloud computing in terms of compute power (multiprocessor 64-bit x86 or ARM with gigabytes of RAM) or software stack (containers, Kubernetes, and microservices). The single most important differentiator between cloud compute and edge compute is simply “do you know (or care) where the resources are located”? If the answer to that is yes, then you are in the realm of edge computing. In addition, the requirement to deal with the transparent orchestration of microservices from cloud to edge is key.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Edge Accelerates Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Artificial intelligence (AI) and autonomous vehicle applications are two great examples of why there is massive interest in edge computing. Pushing applications out to the edge of the network is the only way to efficiently transfer and analyze the massive amounts of data AI applications rely on. And, it’s the only way to achieve the sub-one-millisecond latency autonomous vehicle applications require.&lt;/p&gt;
-&lt;p&gt;With the Edge Native Working Group, the global community can collaborate to evolve the commercial-grade, production-ready code base we already have in Eclipse ​&lt;a href=&quot;https://iofog.org/&quot;&gt;ioFog&lt;/a&gt;​, Eclipse ​&lt;a href=&quot;https://projects.eclipse.org/projects/iot.fog05&quot;&gt;fog05&lt;/a&gt;​, and other projects to address technical issues that are specific to the edge:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Running applications on a wider variety of hardware than you would find in a data center&lt;/li&gt;
-&lt;li&gt;Dealing with the fact that at the edge, the physical location of your resources matters&lt;/li&gt;
-&lt;li&gt;Maintaining communications when you’re forced to rely on low-bandwidth, intermittent network connections while also scaling to scenarios that rely on 5G and other high bandwidth technologies&lt;/li&gt;
-&lt;li&gt;Ensuring the security of edge devices that are often installed in easily accessible locations (&lt;a href=&quot;https://github.com/kubernetes/community/tree/master/wg-iot-edge/whitepapers/edge-security-challenges&quot;&gt;read the Edge Security Challenges whitepaper&lt;/a&gt; published by the Kubernetes IoT Edge working group)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Resolving these challenges will allow the Edge Native Working Group to bring EdgeOps — DevOps for the edge — to the world so developers can write software and can deploy, run, and manage it where it needs to, whether that’s on an MRI machine in a hospital, a motion-activated camera in a farmer’s field, or a fleet of vehicles.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Market for Edge Computing Is Here and It’s Huge&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Interest in resolving edge-specific issues is extremely high. Our founding member list is an impressive group of industry leaders, such as ADLINK, Bosch, Edgeworx, Eurotech, Kynetics, Huawei, Intel, and Siemens. We’re also actively engaged in discussions with other influential global players and expect to share news about additional working group members in the near future.&lt;/p&gt;
-&lt;p&gt;The stature and breadth of companies joining the Edge Native Working Group confirms the need for an open source industry group with edge code that’s ready to be used in serious deployments. According to a 2019 Allied Market Research report, edge computing is forecast to generate a market worth $16.5 billion within the next five years.&lt;/p&gt;
-&lt;p&gt;The business potential at the edge is as varied as the companies joining the working group. For a chip developer, the Edge Native Working Group offers access to an industry ecosystem that can showcase the speed of their products in AI and data analytics applications at the edge. A global telecom player can ensure its products are aligned with edge computing standards to enable 5G applications at the edge.&lt;/p&gt;
-&lt;p&gt;And on it goes, with the potential for companies in any industry to leverage the open platforms the Edge Native Working Group is developing to build customized edge applications for their specific markets and opportunities.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Get Closer to the Edge at the Eclipse Foundation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Critical new initiatives, such as the creation of the Edge Native Working Group, can only happen when Eclipse Foundation community members come together to drive them forward. I want to sincerely thank everyone involved in getting the Edge Native Working Group off the ground for their dedication and meaningful contributions. The tremendous interest and success we’ve experienced so far is a true testament to the value of the time and effort this very devoted team has committed to the project.&lt;/p&gt;
-&lt;p&gt;With the incredibly broad and bright future the Eclipse Edge Native Working Group offers, I encourage everyone to visit &lt;a href=&quot;http://edgenative.eclipse.org/&quot;&gt;http://edgenative.eclipse.org/&lt;/a&gt;, review the ​&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/eclipse_edge_charter.php&quot;&gt;charter&lt;/a&gt;​ and the ​&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/wpga/eclipse_edge_working_group_participation_agreement.pdf&quot;&gt;Edge Native Working Group Participation Agreement (WPGA)&lt;/a&gt;, or email us at membership@eclipse.org for more information. You can also join the working group’s&lt;a href=&quot;https://accounts.eclipse.org/mailing-list/edge-wg&quot;&gt; mailing list&lt;/a&gt; to receive progress updates.&lt;/p&gt;
-&lt;p&gt;If you’ll be attending Edge Computing World on Dec 9-12 in San Jose, California, be sure to attend the &lt;a href=&quot;https://www.edgecomputingworld.com/agenda/developer-workshop-eclipse-edge-tools-iofog-and-fog05/?t=t8&quot;&gt;Eclipse Edge Tools&lt;/a&gt; developer workshop on Tuesday, December 10 at 11:30 AM local time. Also, drop by and see us at our table in the main foyer on the second floor of the Computer History Museum, where we’ll be showcasing the ioFog, ​fog05​, and the Edge Native Working Group.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</description>
-	<pubDate>Tue, 10 Dec 2019 12:00:26 +0000</pubDate>
 </item>
 <item>
 	<title>itemis: Xtext 2.20 Release</title>
@@ -1947,24 +2105,6 @@ The interesting thing about</description>
 	<author>noreply@blogger.com (Jens v.P.)</author>
 </item>
 <item>
-	<title>Thabang Mashologu: Participate in the 2019 IoT Commercial Adoption Survey!</title>
-	<guid isPermaLink="false">6732 at https://blogs.eclipse.org</guid>
-	<link>https://blogs.eclipse.org/post/thabang-mashologu/participate-2019-iot-commercial-adoption-survey</link>
-	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;According to McKinsey, the Internet of Things (IoT) will have a total potential economic impact of up to $11.1 trillion a year by 2025. &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;What are the leading industrial IoT use cases that will contribute to that impact? You tell us!&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;The&lt;a href=&quot;https://iot.eclipse.org/&quot;&gt; Eclipse IoT Working Group&lt;/a&gt; has launched the &lt;a href=&quot;https://www.surveymonkey.com/r/thabang-iotcomm&quot;&gt;2019 IoT Commercial Adoption Survey&lt;/a&gt; to help IoT ecosystem stakeholders get a better understanding of the IoT industry landscape and gain insights into the requirements, priorities, and challenges faced by organizations who are deploying and using commercial IoT solutions.&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;Take just a few minutes to complete the survey. Survey responses will be collected until November 29, 2019 and the results will be published in January. &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;Thank you in advance for your participation!&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://www.surveymonkey.com/r/thabang-iotcomm&quot;&gt;Take the survey now&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-	<pubDate>Mon, 07 Oct 2019 18:26:51 +0000</pubDate>
-</item>
-<item>
 	<title>PapyrusUML: Removing “Contact Us</title>
 	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=2371</guid>
 	<link>https://papyrusuml.wordpress.com/2019/10/07/removing-contact-us/</link>
@@ -2183,165 +2323,6 @@ You can &lt;a href=&quot;https://news.obeo.fr/en/post/world-cleanup-day-obeo-sup
 &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fde%2Flanguage-workbench-fuer-testsprachen&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
 	<pubDate>Fri, 13 Sep 2019 14:12:14 +0000</pubDate>
 	<author>adeutsch@itemis.de (Arne Deutsch)</author>
-</item>
-<item>
-	<title>Jens Reimann: From building blocks to IoT solutions</title>
-	<guid isPermaLink="false">https://dentrassi.de/?p=4293</guid>
-	<link>https://dentrassi.de/2019/09/10/from-building-blocks-to-iot-solutions/</link>
-	<description>&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright is-resized&quot;&gt;&lt;a href=&quot;https://iot.eclipse.org&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Eclipse IoT&quot; class=&quot;wp-image-3752&quot; height=&quot;207&quot; src=&quot;https://dentrassi.de/wp-content/uploads/eclipse-IoT-light-300x269.png&quot; width=&quot;231&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;The Eclipse IoT ecosystem consists of around 40 different projects, ranging from embedded devices, to IoT gateways and up to cloud scale solutions. Many of those projects stand alone as “building blocks”, rather than ready to run solutions. And there is a good reason for that: you can take these building blocks, and incorporate them into your own solution, rather than adopting a complete, pre-built solution.&lt;/p&gt;
-
-
-
-&lt;p&gt;This approach however comes with a downside. Most people will understand the purpose of building blocks, like “&lt;a href=&quot;https://www.eclipse.org/paho/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Paho&lt;/a&gt;” (an MQTT protocol library) and “&lt;a href=&quot;https://github.com/eclipse/milo&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Milo&lt;/a&gt;” (an &lt;a href=&quot;https://dentrassi.de/2019/07/06/eclipse-milo-0-3-updated-examples/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;OPC UA protocol library&lt;/a&gt;) and can easily integrate them into their solution. But on the cloud side of things, building blocks become much more complex to integrate, and harder to understand.&lt;/p&gt;
-
-
-
-&lt;p&gt;Of course, the “getting started” experience is extremely important. You can simply &lt;a href=&quot;https://www.eclipse.org/downloads/packages/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;download an Eclipse IDE package&lt;/a&gt;, tailored towards your context (Java, Modelling, Rust, …), and are up and running within minutes. We don’t want you to design your deployment descriptors first, and then let you figure out how to start up your distributed cluster. Otherwise “getting started” will become a week long task. And a rather frustrating one.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Getting started. Quickly!&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;a href=&quot;https://dentrassi.de/2019/02/20/integrating-eclipse-iot/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Eclipse IoT building blocks&quot; class=&quot;wp-image-4121&quot; src=&quot;https://dentrassi.de/wp-content/uploads/Selection_583-300x236.png&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;During the &lt;a href=&quot;https://www.eclipse.org/lists/iot-wg/msg01495.html&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse IoT face-to-face meeting in Berlin&lt;/a&gt;, early this year, the Eclipse IoT working group discussed various ideas. How can we enable interested parties to get started, with as little effort as possible. And still, give you full control. Not only with a single component, which doesn’t provide much benefit on its own. But get you started with a complete solution, which solves actual IoT related problems.&lt;/p&gt;
-
-
-
-&lt;p&gt;The goal was simple. Take an IoT use case, which is easy to understand by IoT related people. And provide some form of deployment, which gets people up and running in less than 15 minutes. With as little as possible external requirements. At best, run everything on your local laptop. Still, create everything in a close-to-production style of deployment. Not something completely stripped down. But use a way of deployment, that you could actually use as a basis for extending it further.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Kubernetes &amp;amp; Helm&lt;/h2&gt;
-
-
-
-&lt;p&gt;We quickly agreed on &lt;a href=&quot;https://kubernetes.io/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Kubernetes&lt;/a&gt; as the runtime platform, and &lt;a href=&quot;https://helm.sh/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Helm&lt;/a&gt; as the way to perform the actual deployments. With Kubernetes being available even on a local machine (using &lt;a href=&quot;https://kubernetes.io/docs/setup/learning-environment/minikube/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;minikube&lt;/a&gt; on Linux, Windows and Mac) and being available, at the same time, in several enterprise ready environments, it seemed like an ideal choice. Helm charts seemed like an ideal choice as well. Helm designed directly for Kubernetes. And it also allows you to generate YAML files, from the Helm charts. So that the deployment only requires you to deploy a bunch of YAML files. Maintaining the charts, is still way easier than directly authoring YAML files.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Challenges, moving towards an IoT solution&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-4341&quot; src=&quot;https://dentrassi.de/wp-content/uploads/logo_stack_proper_200px.png&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;A much tougher question was: how do we structure this, from a project perspective. During the meeting, it soon turned out, there would be two good initial candidates for “stacks” or “groups of projects”, which we would like to create.&lt;/p&gt;
-
-
-
-&lt;p&gt;It also turned out that we would need some “glue” components for a package like that. Even though it may only be a script here, or a “readme” file there. Some artifacts just don’t fit into either of those projects. And what about “in development” versions of the projects? How can you point people towards a stable deployment, only using a stable (released) group of projects, when scripts and readme’s are spread all over the place, in different branches.&lt;/p&gt;
-
-
-
-&lt;p&gt;A combination of “&lt;a href=&quot;https://www.eclipse.org/hono/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Hono&lt;/a&gt;, &lt;a href=&quot;https://www.eclipse.org/ditto/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Ditto&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.eclipse.org/hawkbit/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Hawkbit&lt;/a&gt;” seemed like an ideal IoT solution to start with. People from various companies already work across those three projects, using them in combination for their own purpose. So, why not build on that?&lt;/p&gt;
-
-
-
-&lt;p&gt;But in addition to all those technical challenges, the governance of this effort is an aspect to consider. We did not want to exclude other Eclipse IoT projects, simply by starting out with “Hono, Ditto, and Hawkbit”. We only wanted to create “an” Eclipse IoT solution, and not “the” Eclipse IoT solution. The whole Eclipse IoT ecosystem is much too diverse, to force our initial idea on everyone else. So what if someone comes up with an additional group of Eclipse IoT projects? Or what if someone would like to add a new project to an existing deployment?&lt;/p&gt;
-
-
-
-&lt;h2&gt;A home for everyone&lt;/h2&gt;
-
-
-
-&lt;p&gt;Luckily, creating an Eclipse Foundation project solves all those issues. And the &lt;a href=&quot;https://projects.eclipse.org/projects/technology.packaging&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse Packaging project&lt;/a&gt; already proves that this approach works. We played with the idea, to create some kind of a “meta” project. Not a real project in the sense of having a huge code base. But more a project, which makes use of the Eclipse Foundations governance framework. Allowing multiple, even competing companies, to work upstream in a joint effort. And giving all the bits and pieces, which are specific to the integration of the projects, a dedicated home.&lt;/p&gt;
-
-
-
-&lt;p&gt;A home, not only for the package of “Hono, Ditto and Hawkbit”, but hopefully for other packages as well. If other projects would like to present their IoT solution, by combining multiple Eclipse IoT projects, this is their chance. You can easily become a contributor to this new project, and publish your scripts, documentation and walk-throughs, alongside the other packages.&lt;/p&gt;
-
-
-
-&lt;p&gt;Of course everything will be open source, licensed under the EPL. So go ahead and fork it, add your custom application on top of it. Or replace an existing component with something, you think is even better than what we put it. We want to enable you to deploy what we provide in a few minutes. Offer you an explanation, what to expect from it, and what this IoT solution can do for you. And encourage you to play around with it. And enable you to extend it, and build something bigger.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Let’s get started&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;EclipseCon Europe 2019&quot; class=&quot;wp-image-4321&quot; src=&quot;https://dentrassi.de/wp-content/uploads/https___www.eclipsecon.org_sites_default_files_ECE_only_round_200x200.png.png&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;We created a new project &lt;a href=&quot;https://projects.eclipse.org/proposals/eclipse-iot-packages&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;proposal for the Eclipse IoT packages&lt;/a&gt; project. The project is currently in the community review phase. Once we pass the creation review, we will start publishing the content for the first package we have.&lt;/p&gt;
-
-
-
-&lt;p&gt;The Eclipse IoT working group will also meet at the &lt;a href=&quot;https://www.eclipsecon.org/europe2019/eclipse-community-day&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;IoT community day&lt;/a&gt; of &lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;EclipseCon Europe 2019&lt;/a&gt;. Our goal is to present an initial version of the initial package. Ready to run!&lt;/p&gt;
-
-
-
-&lt;p&gt;But even more important, we would like to continue our discussions around this effort. All contributions are welcome: code, documentation, additional packages … your ideas, thoughts, and feedback!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://dentrassi.de/2019/09/10/from-building-blocks-to-iot-solutions/&quot; rel=&quot;nofollow&quot;&gt;From building blocks to IoT solutions&lt;/a&gt; appeared first on &lt;a href=&quot;https://dentrassi.de&quot; rel=&quot;nofollow&quot;&gt;ctron's blog&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Tue, 10 Sep 2019 07:07:37 +0000</pubDate>
-</item>
-<item>
-	<title>Cedric Brun: The Rising Adoption of Capella</title>
-	<guid isPermaLink="false">https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella</guid>
-	<link>https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella/</link>
-	<description>&lt;p&gt;Witnessing an OSS technology getting together with a wide group of users is something I find exhilarating, I have experienced it with Acceleo, EMF Compare and Eclipse Sirius along the years, each time in different contexts and at different scales but discovering what is being done by others with a technology is always a source of excitement to me.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.polarsys.org/capella/&quot; target=&quot;_blank&quot;&gt;Capella&lt;/a&gt;  was contributed by Thales to the Eclipse communities a few years ago already and fueled by the growing need to design Systems in a better way, by the interest in Model Based System Engineering and the qualities of the product in itself we can clearly see an acceleration in the last few months.&lt;/p&gt;
-
-&lt;p&gt;If you are wondering what is Capella and what it’s used for, here is a 2-minute video we prepared for you:&lt;/p&gt;
-
-
-
-&lt;p&gt;Worldwide awareness of this solution grows and adoption rises, organizations from Europe, North America and Asia are now using Capella and experiencing the benefits of using a tool which implements a method (coined “&lt;a href=&quot;https://www.polarsys.org/capella/arcadia.html&quot; target=&quot;_blank&quot;&gt;Arcadia&lt;/a&gt;”) and &lt;strong&gt;not only a language.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://cedric.brun.io/images/blog/capelladay2019/forum-activity.png&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/forum-activity.png&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;Capella Forum Activity&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Looking at the numbers, &lt;strong&gt;just for this summer : more than 1200 downloads each month&lt;/strong&gt;, a forum actvity which has been growing with a nice looking curve and monthly stats on &lt;a href=&quot;https://www.youtube.com/channel/UCfgwbb2h10V3tgJ59sbGBnQ/videos&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt; reaching more than 2000 views: considering the size of the target audience this is a significant acceleration and that is without counting the deployment of &lt;a href=&quot;https://www.plm.automation.siemens.com/global/en/products/collaboration/product-architecture.html&quot; target=&quot;_blank&quot;&gt;System Modeling Workbench&lt;/a&gt; provided by Siemens which includes the technology.&lt;/p&gt;
-
-&lt;p&gt;Adopters not only use it but speak about it and as with any other tool having an opportunity to understanding how others are using it is highly valuable.&lt;/p&gt;
-
-&lt;p&gt;Rolls Royce, ArianeGroup or the Singapore University: they all have shared valuable information through the recent webinars :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.slideshare.net/Obeo_corp/webinar-july-2019-introduction-to-capella-and-arcadia-with-a-simple-system&quot; target=&quot;_blank&quot;&gt;Introduction to Arcadia Capella with a toy catapult project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=njW_zdE_FzI&quot; target=&quot;_blank&quot;&gt;Capella for large complex mechanical systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;MBSE must become a team sport !&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More are coming and many already available through the &lt;a href=&quot;https://www.polarsys.org/capella/resources.html&quot; target=&quot;_blank&quot;&gt;Resources Page&lt;/a&gt;! BTW we can’t always get the authorization to keep them available online so your safest option is to register and attend.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/munich.jpg&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;Munich (Germany)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We also make sure to setup « in Real Life » opportunities to discuss Capella and MBSE. Occasions to talk with the team behind Capella and the experts arounds the world. Next up is Capella Day Munich 2019 in a couple of weeks (the 16th of September) organized by Thales and Obeo in conjunction with the  &lt;a href=&quot;https://modelsconf19.org/&quot;&gt;Models Conference 2019&lt;/a&gt;. Here is a glimpse of the program :&lt;/p&gt;
-
-&lt;p&gt;The agenda is filled with general presentations, feedback by industrial users about their Capella deployment or specific add-ons/integration.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html#program&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/program.png&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;The program of Capella Day Munich 2019&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;You might &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html&quot; target=&quot;_blank&quot;&gt;want to hurry as we are almost sold out&lt;/a&gt; and such occasions are pretty unique!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I sincerely hope you’ll enjoy it, we are working hard to make it a success :-), if you can’t make it this time then know there are more occasions to come: &lt;a href=&quot;https://www.incose.org/events-and-news/search-events/2019/10/17/default-calendar/asia-oceania-systems-engineering-conference-2019---call-for-papers&quot; target=&quot;_blank&quot;&gt;AOSEC&lt;/a&gt; in Bangalore, EclipseCon in Germany (again!) where there might be a workshop focused on “MBSE at Eclipse” (Please add your name and interest on &lt;a href=&quot;https://wiki.eclipse.org/ECE2019_MBSE_at_Eclipse&quot; target=&quot;_blank&quot;&gt;the corresponding wiki page&lt;/a&gt; )&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella/&quot;&gt;The Rising Adoption of Capella&lt;/a&gt; was originally published by Cédric Brun at &lt;a href=&quot;https://cedric.brun.io&quot;&gt;CEO @ Obeo&lt;/a&gt; on September 04, 2019.&lt;/p&gt;</description>
-	<pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-	<author>cedric.brun@obeo.fr (Cédric Brun)</author>
 </item>
 
 </channel>
