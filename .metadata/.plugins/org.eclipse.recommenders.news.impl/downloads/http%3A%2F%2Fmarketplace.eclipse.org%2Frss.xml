@@ -6,6 +6,95 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>FeatureIDE</title>
+    <link>http://marketplace.eclipse.org/content/featureide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo1056.png&quot; width=&quot;110&quot; height=&quot;53&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-01-30 16:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22University%20of%20Magdeburg%22&quot;&gt;University of Magdeburg&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2010-12-04 04:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tthuemsri/listings&quot; title=&quot;Thomas Thuem&quot;&gt;Thomas Thuem&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;FeatureIDE supports feature-oriented software development in Eclipse&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 04 Dec 2010 09:23:25 +0000</pubDate>
+ <dc:creator>tthuemsri</dc:creator>
+ <guid isPermaLink="false">22848 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/featureide#comments</comments>
+  </item>
+  <item>
+    <title>Yaml Editor</title>
+    <link>http://marketplace.eclipse.org/content/yaml-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/yaml-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-01-30 10:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-05-24 09:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a YAML editor. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fast and small&lt;/li&gt;
+&lt;li&gt;Supports Go Templates&lt;em&gt; (e.g. Helm charts)&lt;/em&gt; - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues/76#issuecomment-550085378&quot; rel=&quot;nofollow&quot;&gt;#76&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple code completion for existing words&lt;/li&gt;
+&lt;li&gt;Replacing always tab keypress by spaces (default is 3, but configurable)&lt;/li&gt;
+&lt;li&gt;Source formatter&lt;br /&gt;
+	(can restore or drop comments as well)&lt;/li&gt;
+&lt;li&gt;Outline + Quickoutline&lt;/li&gt;
+&lt;li&gt;Task support (TODO, FIXME, custom)&lt;/li&gt;
+&lt;li&gt;Eclipse Templates (customizable + defaults for TODO and FIXME)&lt;/li&gt;
+&lt;li&gt;Can sort mappings (ascending) - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues/56#issuecomment-549190208&quot; rel=&quot;nofollow&quot;&gt;#56&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Folding
+&lt;ul&gt;&lt;li&gt;Can be enabled/disabled
+&lt;ul&gt;&lt;li&gt;for every new opened editor in preferences (per default turned:off)&lt;/li&gt;
+&lt;li&gt;in every editor instance by context menu on ruler column&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Validation
+&lt;ul&gt;&lt;li&gt;When?
+&lt;ul&gt;&lt;li&gt;On start&lt;/li&gt;
+&lt;li&gt;On save&lt;/li&gt;
+&lt;li&gt;Manual validation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What ?
+&lt;ul&gt;&lt;li&gt;Parser errors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Syntaxhighlighting, colors can be customized, defaults for dark themes exist&lt;/li&gt;
+&lt;li&gt;Comment toggling (CTRL + 7)&lt;/li&gt;
+&lt;li&gt;Vertical Ruler which can be moved (F3)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Additional Links&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 May 2018 13:58:51 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">4101183 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/yaml-editor#comments</comments>
+  </item>
+  <item>
+    <title>jSparrow - Automatic Java Refactoring</title>
+    <link>http://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/jSparrow_Fluegel_110x80.jpg&quot; width=&quot;110&quot; height=&quot;77&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-01-30 08:45&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Splendit%20IT-Consulting%20GmbH%22&quot;&gt;Splendit IT-Consulting GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-20 11:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mprehofer/listings&quot; title=&quot;Michaela Prehofer&quot;&gt;Michaela Prehofer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;FOR INSTALLING JSPARROW USE THE EXTERNAL INSTALL BUTTON!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jSparrow &lt;/strong&gt;detects and automatically replaces bugs and code smells in Java sources with a rule-based approach. jSparrow &lt;strong&gt;improves &lt;/strong&gt;your Java source code and transforms it to Java 8/9/10 user-guided and safe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Refactor your Java code. Improve code quality. Apply the latest Java features. All automatically.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+jSparrow has now a set of&lt;strong&gt; 69 rules&lt;/strong&gt;, grouped into seven categories, which are designed for applying coding conventions, removing code smells, standardize logging, improving readability and modernizing your Java codebase. Thus saving maintenance time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Removal &lt;/strong&gt;of potential &lt;strong&gt;bugs and code smells&lt;/strong&gt; is one of the main purposes of jSparrow. jSparrow is very efficient in disposing of these kind of threats with its rules. You can group the profiles into individual &lt;strong&gt;rule profiles&lt;/strong&gt;, which also can be &lt;strong&gt;exported &lt;/strong&gt;and &lt;strong&gt;imported &lt;/strong&gt;to share them within your development team.&lt;/p&gt;
+&lt;p&gt;Staying up to date with the latest Java standards is normally requiring days of manual software maintenance work. &lt;strong&gt;jSparrow upgrades &lt;/strong&gt;old code-artifacts to new state-of-the-art programming practices. The usage of jSparrow´s &lt;strong&gt;full version&lt;/strong&gt; allows you to save a lot of valuable time while offering the option of &lt;strong&gt;automatically upgrading&lt;/strong&gt; to the latest version of Java within minutes in a safe way.&lt;/p&gt;
+&lt;p&gt;You can then decide if you want to use the jSparrow Free version, as usual, or the new features of jSparrow Starter for automatic refactoring. With jSparrow Starter you will be able to apply 15 rules free of charge. After a short registration, you will get a license key, allowing you to apply the rules on your projects.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Don´t lose time with tedious and repetitive work - let jSparrow do it!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Documentation: &lt;a href=&quot;https://jsparrow.github.io/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Rule description: &lt;a href=&quot;https://jsparrow.github.io/rules/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/rules/&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compare our versions: &lt;a href=&quot;https://jsparrow.eu/get-jsparrow/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.eu/get-jsparrow/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LATEST VERSION:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;jSparrow Release 3.13.0&lt;/p&gt;
+&lt;p&gt;jSparrow Maven PlugIn 2.10.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUR RELEASE POLICY IS AS FOLLOWS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monthly releases&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Every 3rd Thursday we will release at least one new rule.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly Bugfix &lt;/strong&gt;releases&lt;/p&gt;
+&lt;p&gt;Bugfixes will be released each Thursday&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotfix Releases &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hotfix Releases can be deployed any time (hopefully not necessary)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next Release: &lt;/strong&gt;Thursday 2020-02-20&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Jun 2017 15:34:11 +0000</pubDate>
+ <dc:creator>mprehofer</dc:creator>
+ <guid isPermaLink="false">3503691 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring#comments</comments>
+  </item>
+  <item>
     <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
     <link>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
     <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-01-29 18:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;AMIQ Support&quot;&gt;AMIQ Support&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
@@ -110,62 +199,6 @@ RESOURCES &lt;/p&gt;
  <dc:creator>azerr</dc:creator>
  <guid isPermaLink="false">1605088 at http://marketplace.eclipse.org</guid>
  <comments>http://marketplace.eclipse.org/content/angularjs-eclipse-outdated-use-wild-web-developer-instead#comments</comments>
-  </item>
-  <item>
-    <title>Tern Eclipse IDE - Outdated - use Wild Web Developer instead</title>
-    <link>http://marketplace.eclipse.org/content/tern-eclipse-ide-outdated-use-wild-web-developer-instead</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-01-29 08:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Angelo%20ZERR%22&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2014-07-06 19:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/azerr/listings&quot; title=&quot;Angelo ZERR&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;tern.js is a stand-alone code-analysis engine for JavaScript written in Javascript. tern.java provides the capability to use tern.js in Java context by using node.js server. Tern Eclipse IDE is Eclipse plugins based on tern.java which extends JSDT JavasScript Editor with tern to improve :&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;JavaScript completion&lt;/li&gt;
-&lt;li&gt;JavaScript text hover&lt;/li&gt;
-&lt;li&gt;JavaScript validation&lt;/li&gt;
-&lt;li&gt;JavaScript hyperlink&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Tern Eclipse IDE supports a lot of JavaScript framework like :&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/angularjs-eclipse&quot; rel=&quot;nofollow&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-AlloyUI-support&quot; rel=&quot;nofollow&quot;&gt;AlloyUI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-CKEditor-support&quot; rel=&quot;nofollow&quot;&gt;CKEditor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Closure-support&quot; rel=&quot;nofollow&quot;&gt;Closure Library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-CordovaJS-support&quot; rel=&quot;nofollow&quot;&gt;CordovaJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-DojoToolkit-support&quot; rel=&quot;nofollow&quot;&gt;Dojo Toolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-ExtJS-support&quot; rel=&quot;nofollow&quot;&gt;ExtJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Google-Maps-support&quot; rel=&quot;nofollow&quot;&gt;Google Maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Grunt-support&quot; rel=&quot;nofollow&quot;&gt;Grunt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-jQuery-support&quot; rel=&quot;nofollow&quot;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Liferay-support&quot; rel=&quot;nofollow&quot;&gt;Liferay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Meteor-support&quot; rel=&quot;nofollow&quot;&gt;Meteor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Node.js-support&quot; rel=&quot;nofollow&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-Qooxdoo-support&quot; rel=&quot;nofollow&quot;&gt;Qooxdoo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-RequireJS-support&quot; rel=&quot;nofollow&quot;&gt;RequireJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Tern-&amp;amp;-YUI-Library-support&quot; rel=&quot;nofollow&quot;&gt;YUI Library&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;If you start with Tern Eclipse IDE, please read &lt;a href=&quot;https://github.com/angelozerr/tern.java/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;Getting Started&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 06 Jul 2014 23:15:44 +0000</pubDate>
- <dc:creator>azerr</dc:creator>
- <guid isPermaLink="false">1784264 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/tern-eclipse-ide-outdated-use-wild-web-developer-instead#comments</comments>
-  </item>
-  <item>
-    <title>Angular Eclipse - Outdated - use Wild Web Developer instead</title>
-    <link>http://marketplace.eclipse.org/content/angular-eclipse-outdated-use-wild-web-developer-instead</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AngularJS-Shield-small_0.png&quot; width=&quot;76&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-01-29 08:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Angelo%20ZERR%22&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-08-22 21:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/azerr/listings&quot; title=&quot;Angelo ZERR&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;Angular Eclipse&lt;/a&gt; is a set of plugins which provide support for &lt;a href=&quot;https://angular.io/&quot; rel=&quot;nofollow&quot;&gt;Angular&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;it is based on &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;TypeScript IDE&lt;/a&gt; for &lt;a href=&quot;https://www.typescriptlang.org/&quot; rel=&quot;nofollow&quot;&gt;TypeScript&lt;/a&gt; support.&lt;/li&gt;
-&lt;li&gt;it integrates &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/AngularCLI&quot; rel=&quot;nofollow&quot;&gt;angular-cli&lt;/a&gt; with &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngTerminal&quot; rel=&quot;nofollow&quot;&gt;Terminal&lt;/a&gt;, &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngWizards&quot; rel=&quot;nofollow&quot;&gt;Wizards&lt;/a&gt; and &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngLaunches&quot; rel=&quot;nofollow&quot;&gt;Launches&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;it extends WTP HTML Editor to support &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/HTML-Editor&quot; rel=&quot;nofollow&quot;&gt;Angular2 syntax inside the HTML editor&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Tue, 23 Aug 2016 01:21:15 +0000</pubDate>
- <dc:creator>azerr</dc:creator>
- <guid isPermaLink="false">3037144 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/angular-eclipse-outdated-use-wild-web-developer-instead#comments</comments>
-  </item>
-  <item>
-    <title>TypeScript IDE - Outdated - use Wild Web Developer instead</title>
-    <link>http://marketplace.eclipse.org/content/typescript-ide-outdated-use-wild-web-developer-instead</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Typescript_logo.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-01-29 08:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Angelo%20ZERR%22&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-08-22 21:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/azerr/listings&quot; title=&quot;Angelo ZERR&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;TypeScript IDE&lt;/a&gt; provides 2 main features:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;a &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/Editor-Features&quot; rel=&quot;nofollow&quot;&gt;TypeScript Editor&lt;/a&gt; which provides TypeScript completion, validation hover, etc for TypeScript files (*.ts), JSX files (*.jsx/*.tsx) and even simple JavaScript file since TypeScript 1.8 supports it (Salsa).&lt;/li&gt;
-&lt;li&gt;a &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/TypeScript-Compiler&quot; rel=&quot;nofollow&quot;&gt;TypeScript Compiler&lt;/a&gt; to compile on save, or build on save TypeScript *.ts/*.tsx files to emited *.js/*.js.map files&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Tue, 23 Aug 2016 01:03:27 +0000</pubDate>
- <dc:creator>azerr</dc:creator>
- <guid isPermaLink="false">3037133 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/typescript-ide-outdated-use-wild-web-developer-instead#comments</comments>
   </item>
   </channel>
 </rss>
